@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aresamsal
 - 👀 I’m interested in business analytics and data science
 - 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on tect mining
+- 💞️ I’m looking to collaborate on text mining
 - 📫 How to reach me : instagram.com/aresamsal
 
 <!---
